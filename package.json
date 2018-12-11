@@ -12,6 +12,7 @@
     "react-native-maps": "^0.22.1"
   },
   "devDependencies": {
+    "@babel/runtime": "^7.2.0",
     "babel-jest": "23.6.0",
     "jest": "23.6.0",
     "metro-react-native-babel-preset": "0.50.0",
